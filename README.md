@@ -2,6 +2,8 @@
 
 App de treino e dieta inspirado em Solo Leveling: você vira um "caçador", cumpre as missões do dia e sobe de nível e de rank na vida real. Funciona no navegador do celular e pode ser instalado na tela inicial (PWA).
 
+**[Testar o app](https://sistemaappbeta.netlify.app)** (versão beta; pede login)
+
 O código é privado. Este repositório apresenta o produto. As telas usam dados de demonstração.
 
 <table>
